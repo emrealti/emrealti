@@ -1,4 +1,11 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ftr%2Fvekt%25C3%25B6r%2Fprogramlama-web-afi%25C5%259F-en-iyi-programlama-dilleri-yaz%25C4%25B1l%25C4%25B1m-geli%25C5%259Ftirme-teknolojisi-gm1223800820-359608625&psig=AOvVaw2RjfY9F2YckWqiacRznJFh&ust=1703351911676000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiFvMrGo4MDFQAAAAAdAAAAABAE)
+[![MasterHead](<div style="position: relative; width: 100%; height: 0; padding-top: 37.5000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF3uSotdEk&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF3uSotdEk&#x2F;view?utm_content=DAF3uSotdEk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Tasarım</a> - Merve Altıntaş)
 
 <h1 align="center">Hi 👋, I'm Emre ALTINTAS</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
